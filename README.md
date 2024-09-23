@@ -1,3 +1,15 @@
+# *Title*
 # hello-world
-this repository is for a class assignment where I use GitHub
-my name is aidan yamashita i'm a 6th year at Iowa. I love music, art, video games and my cat
+---
+# *Description*
+this repository is for a class assignment where I use GitHub 
+---
+# *About my self*
+my name is aidan yamashita i'm a 6th year at Iowa.
+Things that I love
+1. music
+2. art
+3. video games
+4. cat
+
+# 
