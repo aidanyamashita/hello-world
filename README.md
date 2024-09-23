@@ -1,4 +1,4 @@
-# *Title*
+# *Title of Project*
 # hello-world
 ---
 # *Description*
